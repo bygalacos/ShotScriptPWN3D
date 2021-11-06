@@ -1,0 +1,1 @@
+\033[1;35mWeb Panelli\033[1;36m Ve\033[1;35m Ara\033[1;36m Komutlu Audio Bot Çalışmamız Bitmiştir. \nKurulum Menüden Ulaşabilirsiniz.\033[1;36m Github Adresimiz: \033[1;35mhttps://github.com/bygalacos\033[1;36m
